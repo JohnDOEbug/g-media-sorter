@@ -1,10 +1,11 @@
 # g-media-sorter
 ## How to use 
 
-This script provides a g_media_sorter class that puts exported media from Google Photos into chronological order by renaming the file (see below for detailed description). If the class is not imported in another script, an instance can be created and used by following the steps below and running the commands in a Linux shell:
+This script provides a `g_media_sorter` class that puts exported media from Google Photos into chronological order by renaming the file (see below for detailed description). If the class is not imported in another script, an instance can be created and used by following the steps below and running the commands in a Linux shell:
 
-1) Edit the "config" dict in the script to suit your needs.
-2) Run the following commands in a shell:
+1.  Edit the "config" dict in the script to suit your needs.
+2.  Run the following commands in a shell:
+
 ```
 $ cd <location-of-images>
 $ python3 <the-script>
